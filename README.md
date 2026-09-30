@@ -1,6 +1,6 @@
 ![Jamee sculpted J icon](jamee-icon.png)
 
-Jamee · Home Health AI
+Jamee · Home Health Organizer
 
 # Here when your workday needs help.
 
@@ -38,4 +38,4 @@ No patient information is requested during personal onboarding. Protected clinic
 
 Review the [Jamee privacy policy](PRIVACY.md) and [Apple's standard end-user license agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). For account access, data, or billing questions, contact [info@jamee.io](mailto:info@jamee.io?subject=Jamee%20iOS%20support).
 
-**Important:** This page describes the Jamee iOS 1.1.2 personal membership. Features available only to an authorized agency are not included in the $2.99 weekly plan. App Store transactions and cancellation are managed by Apple.
+**Important:** This page describes the Jamee iOS 1.1.3 personal membership. Features available only to an authorized agency are not included in the $2.99 weekly plan. App Store transactions and cancellation are managed by Apple.
